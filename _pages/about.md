@@ -1,3 +1,11 @@
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Greetings! I'm a third-year undergraduate student at the [School of Information and Software Engineering](https://sise.uestc.edu.cn/) within the esteemed [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). Hailing from Changsha, Hunan Province, I've long been captivated by the boundless potential of AI to reshape our world.
 
 Currently, I'm immersed in the dynamic role of a research assistant, contributing to groundbreaking studies in the realms of large language models and autonomous driving. Some highlights of my work can be explored in [Extended Abstract1](URL1) and [Extended Abstract2](URL2).
