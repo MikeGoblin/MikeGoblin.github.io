@@ -5,7 +5,7 @@ permalink: /llmtp/
 author_profile: true
 ---
 
-# LLM-TP: Enhancing Trajectory Prediction for Autonomous Driving with LLMs and Chain-of-Thought Prompting
+# LLM-TP: Enhancing Trajectory Prediction for Autonomous Driving with LLMs and Chain-of-Thought Prompting 
 
 ![Untitled](llmtp0.png)
 
