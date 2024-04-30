@@ -51,7 +51,8 @@ redirect_from:
 - School of Information and Software Engineering, University of Electronic Science and Technology: **Award for Outstanding Studio**
 
 ## Skills
-- **Programming:** Python (Pytorch for Neural Networks, Flask for Web), C/C++, Java, Golang, SQL
+- **Language:** Python (Pytorch for Neural Networks, Flask for Web), C/C++, Java, Golang, SQL
+- **Platform:** Linux, Windows, Mac, Tencent Cloud
 - **Techniques:** Deep Learning, Data Analysis, Academic Drawing, Product Design, Algorithm Design, System Architecture Design, Software Testing
 - **Abilities:** Public Speaking and Presentation, Team Coordination and Organization, Ability to solve complex engineering problems, Quick learner of new knowledge, Proficient in productivity tools such as Office, Obsidian, and Notion.
 
