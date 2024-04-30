@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
 
   - title: "Collections"
-    url: /collections/
+    url: /collection/
     
   - title: "CV"
     url: /cv/
