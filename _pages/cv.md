@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-=====
+## Education
 **B.S., University of Electronic Science and Technology of China (UESTC), Expected 2025**
-- **GPA:** 3.95/4.00 | **Average Score:** 91.21/100 | **Ranking:** Top 8.7% | **CET6:** 582
+- **GPA:** 3.95/4.00, **Average Score:** 91.21/100,  **Ranking:** Top 8.7%,  **CET6:** 582
 - **Leadership Roles:** Chairman and Machine Learning Leader of School Technology Studio, Officer in the Student Union Federation
 
-# Experience 
-=====
+## Experience 
 **Research Assistant in State Key Laboratory of Internet of Things for Smart City, University of Macau**
 **Supervisor:** Assistant Professor Zhenning Li
 **Research Focus:** Efficient perception and decision-making in autonomous driving, human-like understanding and modeling in autonomous driving.
@@ -25,8 +23,7 @@ redirect_from:
 - **Research 3:** Integrated cognitive insights into the trajectory prediction task, with a focus on perceptual safety and dynamic decision-making during driving, and introduced the MoCAD trajectory prediction dataset. This research has been accepted by the top-tier Artificial Intelligence conference **IJCAI 2024**.
 - **Research 4:** Formulated a behavior-aware model for trajectory prediction, incorporating theories from human behavior and decision-making domains. This study has been accepted at the top-tier transportation conference **TRB 2024 (Oral Presentation)**.
 
-# Main Projects
-=====
+## Main Projects
 **Web Security Detection System Based on Large Language Models and Graph Neural Networks**
 - Developed a web security detection system using LLMs and GNNs to achieve geographical IP location, security analysis, and visualization of web page sources.
 - Integrated a street-level IP geolocation framework based on graph neural networks with the Amap API for IP localization and visualization, deployed fine-tuned Chat-GLM for security analysis.
@@ -44,9 +41,8 @@ redirect_from:
 - Created a data visualization platform using NLP and web crawling techniques to analyze comment sections of mainstream internet platforms (Bilibili, Zhihu, Douban, etc.).
 - Fine-tuned BERT for sentiment analysis and utilized Echarts and WordCloud for visualization. This project was successfully completed under the "Ginkgo Fruit Fund" at the University of Electronic Science and Technology.
 
-# Awards
-=====
-- Chinese Colleges Computer Competition - Network Technology Challenge: <font color="#c00000">**National Grand Prize (First Place Nationally in Undergraduate Group)**</font>
+## Awards
+- Chinese Colleges Computer Competition - Network Technology Challenge: **<font color="#c00000">National Grand Prize (First Place Nationally in Undergraduate Group)</font>**
 - University of Electronic Science and Technology: **Excellent Student Scholarship** *2
 - Blue Bridge Cup Software Design Python Group: **Provincial Second Prize**
 - National Computer Design Competition: **Provincial Third Prize**
@@ -54,8 +50,7 @@ redirect_from:
 - University of Electronic Science and Technology "Ginkgo Fruit Fund": **One project successfully completed**
 - School of Information and Software Engineering, University of Electronic Science and Technology: **Award for Outstanding Studio**
 
-# Skills
-=====
+## Skills
 - **Programming:** Python (Pytorch for Neural Networks, Flask for Web), C/C++, Java, Golang, SQL
 - **Techniques:** Deep Learning, Data Analysis, Academic Drawing, Product Design, Algorithm Design, System Architecture Design, Software Testing
 - **Abilities:** Public Speaking and Presentation, Team Coordination and Organization, Ability to solve complex engineering problems, Quick learner of new knowledge, Proficient in productivity tools such as Office, Obsidian, and Notion.
