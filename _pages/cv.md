@@ -18,10 +18,10 @@ redirect_from:
 **Research Assistant in State Key Laboratory of Internet of Things for Smart City, University of Macau**
 **Supervisor:** Assistant Professor Zhenning Li
 **Research Focus:** Efficient perception and decision-making in autonomous driving, human-like understanding and modeling in autonomous driving.
-- **Research 1:** Enhanced trajectory prediction through semantic scene annotation via LLM output and Chain-of-Thoughts Prompting. Proposed two new datasets for fine-tuning lightweight language models to address reasoning costs. This research has been submitted to the **ECAI 2024** Conference on Artificial Intelligence - *Co-first author*.
-- **Research 2:** Developed a safety-aware trajectory prediction model integrating Responsibility-Sensitive Safety (RSS) metrics and introduced an Uncertainty-aware Graph Attention Network. This research has been submitted to **IEEE T-RO**, a top-tier robotics journal (editorial review passed) - *Co-first author*.
+- **Research 1:** Enhanced trajectory prediction through semantic scene annotation via LLM output and Chain-of-Thoughts Prompting. Proposed two new datasets for fine-tuning lightweight language models to address reasoning costs. This research has been submitted to the **ECAI 2024** Conference on Artificial Intelligence - *Co-first Author*.
+- **Research 2:** Developed a safety-aware trajectory prediction model integrating Responsibility-Sensitive Safety (RSS) metrics and introduced an Uncertainty-aware Graph Attention Network. This research has been submitted to **IEEE T-RO**, a top-tier robotics journal (editorial review passed) - *Co-first Author*.
 - **Research 3:** Integrated cognitive insights into the trajectory prediction task, with a focus on perceptual safety and dynamic decision-making during driving, and introduced the MoCAD trajectory prediction dataset. This research has been accepted by the top-tier Artificial Intelligence conference **IJCAI 2024**.
-- **Research 4:** Formulated a behavior-aware model for trajectory prediction, incorporating theories from human behavior and decision-making domains. This study has been accepted at the top-tier transportation conference **TRB 2024 (Oral Presentation)**.
+- **Research 4:** Formulated a behavior-aware model for trajectory prediction, incorporating theories from human behavior and decision-making domains. This study has been accepted at the top-tier transportation conference **TRB 2024 (Oral Presentation)** - *Co-first Author*.
 
 ## Main Projects
 **Web Security Detection System Based on Large Language Models and Graph Neural Networks**
