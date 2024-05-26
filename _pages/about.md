@@ -7,13 +7,18 @@ redirect_from:
   - /about.html
 
 ---
+<div style="font-size: 13px;">
+Greetings! I'm Hanlin Kong, a third-year undergraduate student at the [School of Information and Software Engineering](https://sise.uestc.edu.cn/) within the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). Hailing from Changsha, Hunan Province, I've long been captivated by the boundless potential of AI to reshape our world. 
 
-Greetings! I'm Hanlin Kong, a third-year undergraduate student at the [School of Information and Software Engineering](https://sise.uestc.edu.cn/) within the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). Hailing from Changsha, Hunan Province, I've long been captivated by the boundless potential of AI to reshape our world. I am currently preparing for my postgraduate recommendation. Looking forward, I aspire to pursue a Ph.D. program.
+I am currently preparing for my postgraduate recommendation. Looking forward, I aspire to pursue a Ph.D. program.
 
 # Research
 
 My research interests generally include `Deep Learning`, `Large Language Models`, `Multi-modality`, `Natural Language Processing`, and `Autonomous Driving`. 
-Presently, I am a research assistant at the [National State Key Laboratory of Smart City and Internet of Things (SK-IOTSC)](https://skliotsc.um.edu.mo/) at the University of Macau, under the supervision of [Prof.Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/) and [Prof. Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/). My research focuses on large language models and autonomous driving. Over the past year, I have produced <span style="color: red;"> **5** </span> papers (as **co-first author** in <span style="color: red;"> **3** </span> papers), published on or submitted to top conferences and journals such as `IJCAI 2024(CCF-A)`, `IEEE T-RO(SCI Q1, IF=7.8)`, and `IEEE T-IV(SCI Q1, IF=16)`. Some highlights of my work are provided in the [publications](publication) and [collections](collection).
+
+Presently, I am a research assistant at the [National State Key Laboratory of Smart City and Internet of Things (SK-IOTSC)](https://skliotsc.um.edu.mo/) at the University of Macau, under the supervision of [Prof.Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/) and [Prof. Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/). My research focuses on large language models and autonomous driving. 
+
+Over the past year, I have produced <span style="color: red;"> **5** </span> papers (as **co-first author** in <span style="color: red;"> **3** </span> papers), published on or submitted to top conferences and journals such as `IJCAI 2024(CCF-A)`, `IEEE T-RO(SCI Q1, IF=7.8)`, and `IEEE T-IV(SCI Q1, IF=16)`. Some highlights of my work are provided in the [publications](publication) and [collections](collection).
 
 # Projects
 
@@ -45,4 +50,4 @@ Presently, I am a research assistant at the [National State Key Laboratory of Sm
 # Contact
 
 Please feel free to reach out to me at [hanlinkong@foxmail.com](mailto:hanlinkong@foxmail.com).
-
+</div>
