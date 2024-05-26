@@ -1,17 +1,35 @@
 ---
 permalink: /
-title: "Welcome!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 Greetings! I'm Hanlin Kong, a third-year undergraduate student at the [School of Information and Software Engineering](https://sise.uestc.edu.cn/) within the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). Hailing from Changsha, Hunan Province, I've long been captivated by the boundless potential of AI to reshape our world. I am currently preparing for my postgraduate recommendation. Looking forward, I aspire to pursue a Ph.D. program.
 
 # Research
 
-My research interests include *Deep Learning*, *Large Language Models*, *Multi-modality*, *Natural Language Processing*, and *Autonomous Driving*. Presently, I am a research assistant at the National State Key Laboratory of Smart City and Internet of Things at the University of Macau, under the supervision of Associate Professor [Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/) and Chair Professor [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/). My research focuses on large language models and autonomous driving. Over the past year, I have produced <span style="color: red;"> **5** </span> papers. Some highlights of my work are provided in the [publications](publication) and [collections](collection).
+My research interests generally include `Deep Learning`, `Large Language Models`, `Multi-modality`, `Natural Language Processing`, and `Autonomous Driving`. 
+Presently, I am a research assistant at the [National State Key Laboratory of Smart City and Internet of Things (SK-IOTSC)](https://skliotsc.um.edu.mo/) at the University of Macau, under the supervision of [Prof.Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/) and [Prof. Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/). My research focuses on large language models and autonomous driving. Over the past year, I have produced <span style="color: red;"> **5** </span> papers (as **co-first author** in <span style="color: red;"> **3** </span> papers), published on or submitted to top conferences and journals such as `IJCAI 2024(CCF-A)`, `IEEE T-RO(SCI Q1, IF=7.8)`, and `IEEE T-IV(SCI Q1, IF=16)`. Some highlights of my work are provided in the [publications](publication) and [collections](collection).
+
+# Projects
+
+- Web Page Security Detection System Based on ChatGLM and Langchain, <span style="color: red;"> **Software Copyright**</span> - *Core Member*
+- “Dydai'” Mutual Aid—Solving the “Last Mile” Problem of Parcel Delivery, - *Leader*
+- Adolescent Psychological Rescue SOS System Based on Emotion Computing, - *Leader*
+- Web Platform Data Intelligence Analysis System Based on NLP and Web Crawling, - *Leader*
+
+# Honors and Awards
+
+- China Collegiate Computing Contest (C4), <span style="color: red;"> **National First Prize (the 1st Place of Undergraduate Group)**</span>
+- Outstanding Student Scholarships for the 2021-2022, 2022-2023 academic year
+- National Blue Bridge Cup, Provincial Second Prize
+- National Computer Design Competition, Provincial Third Prize
+- National E-commerce "Sanchuang" Competition, Provincial Third Prize
+- UESTC  "Ginkgo Fruit Fund" for the 2021-2022 academic year, 1 project
 
 # Service
 
@@ -26,5 +44,5 @@ My research interests include *Deep Learning*, *Large Language Models*, *Multi-m
 
 # Contact
 
-Please feel free to reach out to me at hanlinkong@foxmail.com.
+Please feel free to reach out to me at [hanlinkong@foxmail.com](mailto:hanlinkong@foxmail.com).
 
