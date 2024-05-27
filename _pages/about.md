@@ -13,7 +13,7 @@ I am currently preparing for my postgraduate recommendation. Looking forward, I 
 
 # Research
 
-Presently, I am a research assistant at the <span style="text-decoration: none;">[National State Key Laboratory of Smart City and Internet of Things (SK-IOTSC)](https://skliotsc.um.edu.mo/)</span> at the University of Macau, under the supervision of [Prof.Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/) and [Prof. Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/). My research focuses on large language models and autonomous driving. 
+Presently, I am a research assistant at the <span style="text-decoration: none;">[National State Key Laboratory of Smart City and Internet of Things (SKL-IOTSC)](https://skliotsc.um.edu.mo/)</span> at the University of Macau, under the supervision of [Prof.Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/) and [Prof. Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/). My research focuses on large language models and autonomous driving. 
 
 Over the past year, I have produced <span style="color: red;"> **5** </span> papers (as **co-first author** in <span style="color: red;"> **3** </span> papers), published on or submitted to top conferences and journals such as `IJCAI 2024(CCF-A)`, `IEEE T-RO(SCI Q1, IF=7.8)`, and `IEEE T-IV(SCI Q1, IF=16)`. Some highlights of my work are provided in the [publications](publication) and [collections](collection).
 
