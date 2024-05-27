@@ -23,7 +23,7 @@ TRB 2024 <span style="color: red;">(Oral Presentation, 3%)</span> `Accepted` [[l
 
 
 **Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving**<br>
-Haicheng Liao\*, Xuelin Li*, Yongkang Li, *<ins>Hanlin Kong</ins>* and Chengyue Wang et al. <br>
+Haicheng Liao\*, Xuelin Li\*, Yongkang Li, *<ins>Hanlin Kong</ins>* and Chengyue Wang et al. <br>
 IJCAI 2024 `(CCF A)` `Accepted` [[link]](https://arxiv.org/pdf/2405.02145)
 
 
