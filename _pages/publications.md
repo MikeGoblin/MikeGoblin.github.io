@@ -9,12 +9,12 @@ Note: * indicates co-first author, † indicates corresponding author.
 
 **LLM-TP: Enhancing Trajectory Prediction for Autonomous Driving with LLMs and Chain-of-Thought Prompting**<br>
 Haicheng Liao\*, *<ins>Hanlin Kong*</ins>*, Chengyue Wang and Zhenning Li† et al.<br>
-IEEE T-IV. `(SCI Q1, IF=16)` `Under Review` [[link]](llmtp.html)
+IEEE T-IV `(SCI Q1, IF=16)` `Under Review` [[link]](llmtp.html)
 
 
 **SA-TP: A Safety-aware Trajectory Prediction Model for Connected and Autonomous Driving**<br>
 Haicheng Liao\*, *<ins>Hanlin Kong*</ins>*, Zhenning Li† and Chengzhong Xu†<br>
-IEEE T-RO. `(SCI Q1, IF=7.8)` `Under Review` [[link]](satp.html)
+IEEE T-RO `(SCI Q1, IF=7.8)` `Under Review` [[link]](satp.html)
 
 
 **Achieving Human-Like Teajectory Prediction For Autonomous Vehicles: A Behavior-Aware Approach**<br>
