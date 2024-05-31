@@ -17,7 +17,7 @@ Haicheng Liao\*, *<ins>Hanlin Kong*</ins>*, Zhenning Li† and Chengzhong Xu†<
 IEEE T-RO `(SCI Q1, IF=7.8)` `Under Review` [[link]](satp.html)
 
 
-**Achieving Human-Like Teajectory Prediction For Autonomous Vehicles: A Behavior-Aware Approach**<br>
+**Achieving Human-Like Trajectory Prediction For Autonomous Vehicles: A Behavior-Aware Approach**<br>
 Haicheng Liao\*, *<ins>Hanlin Kong*</ins>*, Huanming Shen, Zhenning Li† and Shengbo Eben Li et al.<br>
 TRB 2024 <span style="color: red;">(Oral Presentation, 3%)</span> `Accepted` [[link]](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/20918)
 
