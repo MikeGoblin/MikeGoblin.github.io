@@ -14,7 +14,7 @@ IEEE T-IV `(SCI Q1, IF=14)` `Under Review` [[link]](llmtp.html)
 
 **SA-TP: A Safety-aware Trajectory Prediction Model for Connected and Autonomous Driving**<br>
 Haicheng Liao\*, *<ins>Hanlin Kong*</ins>*, Zhenning Li† and Chengzhong Xu†<br>
-IEEE T-RO `(SCI Q1, IF=7.8)` `Under Review` [[link]](satp.html)
+IEEE T-RO `(SCI Q1, IF=9.4)` `Under Review` [[link]](satp.html)
 
 
 **Achieving Human-Like Trajectory Prediction For Autonomous Vehicles: A Behavior-Aware Approach**<br>
