@@ -30,3 +30,7 @@ IJCAI 2024 `(CCF A)` `Accepted` [[link]](https://arxiv.org/pdf/2405.02145)
 **A Cognitive-Driven Trajectory Prediction Model for Autonomous Driving in Mixed Autonomy Environments**<br>
 Haicheng Liao, Zhenning Li†, Chengyue Wang, Bonan Wang and *<ins>Hanlin Kong</ins>* et al.<br>
 IJCAI 2024 `(CCF A)` `Accepted` [[link]](https://arxiv.org/pdf/2404.17520)
+
+**Addressing Corner Cases in Autonomous Driving Trajectory Prediction: A Hybrid Approach using Mixture of Experts and LLMs**<br>
+Haicheng Liao\*, Junxian Yang\*, *<ins>Hanlin Kong</ins>*, Zhengxing Lan and Chengyue Wang et al.<br>
+AAAI 2025 `(CCF A)` `Under Review` [[link]](https://arxiv.org/pdf/2404.17520)
