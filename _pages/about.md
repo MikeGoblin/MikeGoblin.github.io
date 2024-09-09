@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 
 ---
-Greetings! I'm Hanlin Kong, a third-year undergraduate student at the [School of Information and Software Engineering](https://sise.uestc.edu.cn/) within the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). Hailing from Changsha, Hunan Province, I've long been captivated by the boundless potential of AI to reshape our world.  <br>
+Greetings! I'm Hanlin Kong, a 4th-year undergraduate student at the [School of Information and Software Engineering](https://sise.uestc.edu.cn/) within the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). Hailing from Changsha, Hunan Province, I've long been captivated by the boundless potential of AI to reshape our world.  <br>
 I am currently preparing for my postgraduate recommendation. Looking forward, I aspire to pursue a Ph.D. program.
 
 # Research
